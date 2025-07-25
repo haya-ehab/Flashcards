@@ -38,15 +38,15 @@ React (Functional Components)
 JavaScript (ES6+)
 <br>
 CSS
+
 ---
 
 
 ## 📸 Preview
-
-(![alt text](image.png))
+(image.png)
 
 ---
-## License
+## 📃 License
 <br>
 this Project is under the MIT License
 
