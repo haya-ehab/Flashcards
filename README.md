@@ -43,7 +43,8 @@ CSS
 
 
 ## 📸 Preview
-(image.png)
+
+![alt text](image.png)
 
 ---
 ## 📃 License
